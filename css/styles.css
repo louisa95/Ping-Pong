@@ -10,19 +10,38 @@
 .span-col-7{grid-column: span 7 / auto;}
 
  .jumbotron {
+   color:white;
   background-image: url("../css/img/tt.img");
-text-align: center;
+  background-size: cover;
+      padding-top: 20%;
+      padding-bottom: 30%;
+  text-align: center;
 
+}
+#button{
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #FF69B4;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
 }
 #float{
   float: left;
 }
 body {
     background-image: url("../css/img/download3.img");
-    
+
 }
 h1 #PP{
  font-family: sans-serif ;
+ color: black;
 }
 
 #vp{
@@ -46,5 +65,5 @@ h3{
   color:black;
 }
 p{
-  colol:tomato;
+  color:white;
 }
