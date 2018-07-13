@@ -1,3 +1,4 @@
+<<<<<<< HEAD
   {Ping Pong}
 #### {The application was created on}, {13th July 2018}
 ## Description
@@ -18,3 +19,7 @@
 ### License
 *{MIT}*
 Saruni (c) {2018} **{13-7-2018}**
+=======
+# Ping-Pong
+Independent Project 3
+>>>>>>> dd365dc3bec6776ed9d9c5cff64452e60b04dff3
