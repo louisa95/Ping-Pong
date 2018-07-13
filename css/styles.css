@@ -1,0 +1,49 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+}
+.span-col-12{grid-column: span 12 / auto;}
+
+.span-col-5{grid-column: span 5 / auto;}
+
+.span-col-7{grid-column: span 7 / auto;}
+
+ .jumbotron {
+  background-image: url("../css/img/tt.img");
+text-align: center;
+
+}
+#float{
+  float: left;
+}
+body {
+    background-image: url("../css/img/download3.img");
+}
+h1 #PP{
+ font-family: sans-serif ;
+}
+
+#vp{
+  text-decoration-color: yellow;
+}
+.container{
+  background-color: : grey;
+  color:white;
+}
+#col{
+  background-color:Gray;
+  text-decoration-color: yellow;
+
+
+}
+h2{
+   color: yellow;
+
+}
+h3{
+  color:black;
+}
+p{
+  colol:tomato;
+}
