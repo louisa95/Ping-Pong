@@ -1,5 +1,5 @@
 Ping Pong: 
-The application was created on,13th July 2018
+The application was created on, 13th July 2018
 ## Description
 Ping Pong was created to count down numbers from 1 with the following characteristics:
 -Numbers divisible by 3 become 'ping'
@@ -21,7 +21,7 @@ Ensure your id's on your HTML are similar to your CSS ids.
 You could slack me at -Louisa Konchellah- if any issue occurs and you need assistance.
 ### License
 MIT
-Saruni (c) 2018 *13-7-2018*
+Saruni (c) 2018 -*13-7-2018*
 =======
 # Ping-Pong
 Independent Project 3
