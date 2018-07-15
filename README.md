@@ -1,4 +1,4 @@
-Ping Pong
+Ping Pong: 
 The application was created on,13th July 2018
 ## Description
 Ping Pong was created to count down numbers from 1 with the following characteristics:
