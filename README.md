@@ -1,8 +1,11 @@
-<<<<<<< HEAD
-  {Ping Pong}
-#### {The application was created on}, {13th July 2018}
+Ping Pong
+The application was created on,13th July 2018
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+Ping Pong was created to count down numbers from 1 with the following characteristics:
+-Numbers divisible by 3 become 'ping'
+-Numbers divisible by 5 become 'pong'
+-Numbers divisible by 3 and 5 become 'pingpong'
+
 ## Setup/Installation Requirements
 * Start by running a test to ensure your code is correct (I used the console and CodePen was an addition)
 * Create the respective HTML,CSS and JS folders.
@@ -11,15 +14,15 @@
 * Happy-pinpong-ing!
 
 ## Known Bugs
-{Ensure your id's on your HTML are similar to your CSS ids. }
+Ensure your id's on your HTML are similar to your CSS ids. 
 ## Technologies Used
-{I used HTML for the front-end web-page and Java Script for the back-end part of the web-page.}
+ I used HTML for the front-end web-page and Java Script for the back-end part of the web-page.
 ## Support and contact details
-{You could slack me at -Louisa Konchellah- if any issue occurs and you need assistance.}
+You could slack me at -Louisa Konchellah- if any issue occurs and you need assistance.
 ### License
-*{MIT}*
-Saruni (c) {2018} **{13-7-2018}**
+MIT
+Saruni (c) 2018 *13-7-2018*
 =======
 # Ping-Pong
 Independent Project 3
->>>>>>> dd365dc3bec6776ed9d9c5cff64452e60b04dff3
+
